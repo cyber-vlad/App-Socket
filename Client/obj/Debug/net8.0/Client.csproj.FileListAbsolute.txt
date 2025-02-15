@@ -1,0 +1,28 @@
+C:\Users\KramerOxxx\source\repos\AppSocket\Client\bin\Debug\net8.0\Client.exe
+C:\Users\KramerOxxx\source\repos\AppSocket\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\KramerOxxx\source\repos\AppSocket\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\KramerOxxx\source\repos\AppSocket\Client\bin\Debug\net8.0\Client.dll
+C:\Users\KramerOxxx\source\repos\AppSocket\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\KramerOxxx\source\repos\AppSocket\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KramerOxxx\source\repos\AppSocket\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\KramerOxxx\source\repos\AppSocket\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\KramerOxxx\source\repos\AppSocket\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\KramerOxxx\source\repos\AppSocket\Client\obj\Debug\net8.0\Client.dll
+C:\Users\KramerOxxx\source\repos\AppSocket\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\KramerOxxx\source\repos\AppSocket\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\KramerOxxx\source\repos\AppSocket\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\KramerOxxx\source\repos\AppSocket\Client\obj\Debug\net8.0\ref\Client.dll
+C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Client\bin\Debug\net8.0\Client.exe
+C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Client\bin\Debug\net8.0\Client.dll
+C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Client\obj\Debug\net8.0\Client.dll
+C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Client\obj\Debug\net8.0\ref\Client.dll
