@@ -26,3 +26,4 @@ C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB
 C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Server\obj\Debug\net8.0\Server.pdb
 C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
 C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Server\obj\Debug\net8.0\ref\Server.dll
+C:\Users\KramerOxxx\Desktop\UTM\3 year II semester\PR - Programarea in retea\LAB1\AppSocket\Server\obj\Debug\net8.0\Server.sourcelink.json

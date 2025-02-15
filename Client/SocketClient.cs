@@ -10,8 +10,9 @@ namespace Client
 {
     public class SocketClient
     {
-        readonly Socket _socket;
+        private readonly Socket _socket;
         private bool isConnected = false;
+        private bool isRunning = true;
 
         public SocketClient()
         {
@@ -56,6 +57,7 @@ namespace Client
 
                     if (text == "exit")
                     {
+                        isRunning = false;
                         StopConnection();
                         return;
                     }
@@ -78,7 +80,7 @@ namespace Client
 
         public void ReceiveMessages()
         {
-            while (isConnected)
+            while (isConnected && isRunning)
             {
                 try
                 {
@@ -94,7 +96,7 @@ namespace Client
 
                     if (bytesReceived > 0)
                     {
-                        string response = Encoding.ASCII.GetString(bytesResponse, 0, bytesReceived);
+                        string response = Encoding.UTF8.GetString(bytesResponse, 0, bytesReceived);
                         Console.WriteLine();
                         Console.WriteLine($"From server: {response}");
                         Console.Write("Message: ");
@@ -102,7 +104,10 @@ namespace Client
                 }
                 catch (SocketException ex)
                 {
-                    Console.WriteLine($"Receiving-Message Exception: {ex.Message}");
+                    if (isRunning) 
+                    {
+                        Console.WriteLine($"Receiving-Message Exception: {ex.Message}");
+                    }
                     StopConnection();
                     return;
                 }
@@ -114,12 +119,14 @@ namespace Client
                 }
             }
         }
+
         public void StopConnection()
         {
             try
             {
                 if (isConnected)
                 {
+                    isRunning = false;
                     _socket.Shutdown(SocketShutdown.Both);
                     _socket.Close();
                     isConnected = false;
@@ -132,5 +139,6 @@ namespace Client
             }
         }
     }
+
 
 }

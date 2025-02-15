@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{E24BC086-DCBE-4998-992F-509D13ACE619}|Client\\Client.csproj|solutionrelative:client\\socketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E7D47AF-4730-4052-8CB8-9930F2CE91EE}|Server\\Server.csproj|c:\\users\\krameroxxx\\desktop\\utm\\3 year ii semester\\pr - programarea in retea\\lab1\\appsocket\\server\\socketserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E7D47AF-4730-4052-8CB8-9930F2CE91EE}|Server\\Server.csproj|solutionrelative:server\\socketserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E24BC086-DCBE-4998-992F-509D13ACE619}|Client\\Client.csproj|c:\\users\\krameroxxx\\desktop\\utm\\3 year ii semester\\pr - programarea in retea\\lab1\\appsocket\\client\\clientside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E24BC086-DCBE-4998-992F-509D13ACE619}|Client\\Client.csproj|solutionrelative:client\\clientside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7D47AF-4730-4052-8CB8-9930F2CE91EE}|Server\\Server.csproj|c:\\users\\krameroxxx\\desktop\\utm\\3 year ii semester\\pr - programarea in retea\\lab1\\appsocket\\server\\socketserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7D47AF-4730-4052-8CB8-9930F2CE91EE}|Server\\Server.csproj|solutionrelative:server\\socketserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E7D47AF-4730-4052-8CB8-9930F2CE91EE}|Server\\Server.csproj|c:\\users\\krameroxxx\\desktop\\utm\\3 year ii semester\\pr - programarea in retea\\lab1\\appsocket\\server\\serverside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -36,20 +36,19 @@
               "RelativeDocumentMoniker": "Server\\ServerSide.cs",
               "ToolTip": "C:\\Users\\KramerOxxx\\Desktop\\UTM\\3 year II semester\\PR - Programarea in retea\\LAB1\\AppSocket\\Server\\ServerSide.cs",
               "RelativeToolTip": "Server\\ServerSide.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAANDMzMzPbvwkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T12:04:26.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T12:04:26.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ClientSide.cs",
               "DocumentMoniker": "C:\\Users\\KramerOxxx\\Desktop\\UTM\\3 year II semester\\PR - Programarea in retea\\LAB1\\AppSocket\\Client\\ClientSide.cs",
               "RelativeDocumentMoniker": "Client\\ClientSide.cs",
               "ToolTip": "C:\\Users\\KramerOxxx\\Desktop\\UTM\\3 year II semester\\PR - Programarea in retea\\LAB1\\AppSocket\\Client\\ClientSide.cs",
               "RelativeToolTip": "Client\\ClientSide.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAANDMzMzPbvwYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T11:58:20.472Z",
               "EditorCaption": ""
@@ -62,20 +61,20 @@
               "RelativeDocumentMoniker": "Client\\SocketClient.cs",
               "ToolTip": "C:\\Users\\KramerOxxx\\Desktop\\UTM\\3 year II semester\\PR - Programarea in retea\\LAB1\\AppSocket\\Client\\SocketClient.cs",
               "RelativeToolTip": "Client\\SocketClient.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBsAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T11:55:43.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SocketServer.cs",
               "DocumentMoniker": "C:\\Users\\KramerOxxx\\Desktop\\UTM\\3 year II semester\\PR - Programarea in retea\\LAB1\\AppSocket\\Server\\SocketServer.cs",
               "RelativeDocumentMoniker": "Server\\SocketServer.cs",
               "ToolTip": "C:\\Users\\KramerOxxx\\Desktop\\UTM\\3 year II semester\\PR - Programarea in retea\\LAB1\\AppSocket\\Server\\SocketServer.cs",
               "RelativeToolTip": "Server\\SocketServer.cs",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAowDIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAuwIsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T11:54:20.051Z",
               "EditorCaption": ""
